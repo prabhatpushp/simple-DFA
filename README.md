@@ -16,7 +16,7 @@ This project provides a concrete implementation of a Deterministic Finite Automa
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <YOUR_GIT_URL>
+   git clone https://github.com/prabhatpushp/simple-DFA
    cd simple DFA
    ```
 2. Set up a virtual environment (optional but recommended):
